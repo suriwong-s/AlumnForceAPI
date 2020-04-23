@@ -34,15 +34,15 @@
   "actualities": [
     {
       "id": 1,
-      "image": "../assets/photos/1",
+      "image": "'../../assets/photos/1'",
       "title": "Information note on the Covid19",
       "content": "Stay home!",
       "author": "Jean",
       "date": "15-03-2020"
-    }
+    },
     {
       "id": 2,
-      "image": "../assets/photos/2",
+      "image": "'../../assets/photos/2'",
       "title": "Bientôt le déconfinement",
       "content": "Reprenons le travail et profitons bien du soleil",
       "author": "Jean",
