@@ -34,11 +34,19 @@
   "actualities": [
     {
       "id": 1,
-      "image": "/application/photo/1",
+      "image": "../assets/photos/1",
       "title": "Information note on the Covid19",
       "content": "Stay home!",
       "author": "Jean",
       "date": "15-03-2020"
+    }
+    {
+      "id": 2,
+      "image": "../assets/photos/2",
+      "title": "Bientôt le déconfinement",
+      "content": "Reprenons le travail et profitons bien du soleil",
+      "author": "Jean",
+      "date": "25-04-2020"
     }
   ],
 
@@ -50,15 +58,6 @@
       "location": "Café Opérahouse, Paris",
       "author": "Pierre",
       "date": "11-05-2020"
-    }
-  ],
-
-  "recommended": [
-    {
-      "title": "Internship",
-      "body": "Internship at AlumForce",
-      "location": "Paris",
-      "Contract": "CDI"
     }
   ],
 
