@@ -1,0 +1,70 @@
+{
+  "yearbook": [
+    {
+      "id": 1,
+      "name": "Jean",
+      "profession": "Développeur Web",
+      "organization": "AlumForce",
+      "telephone": "0699999999",
+      "email": "jean@gmail.com",
+      "address": "Paris, France"
+    },
+    {
+      "name": "Sunny",
+      "profession": "Student",
+      "organization": "Etna",
+      "telephone": "0769523409",
+      "email": "sunny@gmail.com",
+      "address": "Paris, France",
+      "id": 2
+    }
+  ],
+
+  "messages": [
+    {
+      "id": 1,
+      "title": "Contact me",
+      "body": "I have a job for you",
+      "sender": "Paul",
+      "receiver": "Sunny",
+      "sentDate": "15-04-2020",
+      "sentTime": "17:35"
+    }
+  ],
+  "actualities": [
+    {
+      "id": 1,
+      "image": "/application/photo/1",
+      "title": "Information note on the Covid19",
+      "content": "Stay home!",
+      "author": "Jean",
+      "date": "15-03-2020"
+    }
+  ],
+
+  "events": [
+    {
+      "id": 1,
+      "name": "Etna-Reunion",
+      "description": "meet-greet-update for etna students",
+      "location": "Café Opérahouse, Paris",
+      "author": "Pierre",
+      "date": "11-05-2020"
+    }
+  ],
+
+  "recommended": [
+    {
+      "title": "Internship",
+      "body": "Internship at AlumForce",
+      "location": "Paris",
+      "Contract": "CDI"
+    }
+  ],
+
+  "onboarding": [
+    { "id": 1, "title": "Find lost Alumni", "contents": "Members of the network can update their profile whenever they wish. Data can easily be exported and give you real time access to statistics such as employability rates, activity on the platform and many other metrics.", "image": "'../icons/share.png'" },
+    { "id": 2, "title": "Engage your alumni network", "contents": "Alumni can update their profile whenever they wish. This means you will always have the most up to date information relating your former students", "image": "'../icons/share.png'"},
+    { "id": 3, "title": "Boost your alumni employability", "contents": "Help your members find a job, an internship or an apprenticeship, with the job board and recruiters accounts.", "image": "'../icons/share.png'"}
+  ]
+}
