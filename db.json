@@ -16,5 +16,16 @@
       "author": "Jean",
       "date": "25-04-2020"
     }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "title": "Contact me",
+      "body": "I have a job for you",
+      "sender": "Paul",
+      "receiver": "Sunny",
+      "sentDate": "15-04-2020",
+      "sentTime": "17:35"
+    }
   ]
 }
