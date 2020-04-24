@@ -1,4 +1,26 @@
 {
+  "yearbook": [
+    {
+      "id": 1,
+      "name": "Jean",
+      "profession": "Développeur Web",
+      "organization": "AlumForce",
+      "telephone": "0699999999",
+      "email": "jean@gmail.com",
+      "address": "Paris, France",
+      "group_id": 1
+    },
+    {
+      "name": "Sunny",
+      "profession": "Student",
+      "organization": "Etna",
+      "telephone": "0769523409",
+      "email": "sunny@gmail.com",
+      "address": "Paris, France",
+      "id": 2,
+      "group_id": 1
+    }
+  ],
   "actualities": [
     {
       "id": 1,
